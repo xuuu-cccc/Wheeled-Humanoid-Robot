@@ -76,7 +76,7 @@
   感谢以下人员对本项目的贡献：<br>
   
  徐晨 xuc@tju.edu.cn;
- 王亚茹 ;
+ 王亚茹 wyr0557@tju.edu.cn;
  陈曦 chenxi@tju.edu.cn;
  原续波 xbyuan@tju.edu.cn;
  吴红啸 WHXwhx12305@163.com;
@@ -156,11 +156,11 @@
 
 We sincerely thank the following contributors to this project:
 
-Chen Xu xuc@tju.edu.cn,
-Yaru Wang:,
-Xi Chen chenxi@tju.edu.cn, 
-Xubo Yuan xbyuan@tju.edu.cn
-Hongxiao Wu WHXwhx12305@163.com；Mingyi Li limingyi@bit.edu.cn；
+Chen Xu xuc@tju.edu.cn;
+Yaru Wang wyr0557@tju.edu.cn;
+Xi Chen chenxi@tju.edu.cn,;
+Xubo Yuan xbyuan@tju.edu.cn;
+Hongxiao Wu WHXwhx12305@163.com;Mingyi Li limingyi@bit.edu.cn;
 Jiawei Li 18247395676@163.com.
 
 
