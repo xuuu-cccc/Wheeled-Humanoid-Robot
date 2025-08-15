@@ -75,10 +75,10 @@
   
   感谢以下人员对本项目的贡献：<br>
   
- 徐晨 xuc@tju.edu.cn；
- 王亚茹 ；
- 陈曦 chenxi@tju.edu.cn；
- 原续波 xbyuan@tju.edu.cn；
+ 徐晨 xuc@tju.edu.cn;
+ 王亚茹 ;
+ 陈曦 chenxi@tju.edu.cn;
+ 原续波 xbyuan@tju.edu.cn;
  吴红啸 WHXwhx12305@163.com;
  李明益 limingyi@bit.edu.cn;
  李嘉伟 18247395676@163.com.
