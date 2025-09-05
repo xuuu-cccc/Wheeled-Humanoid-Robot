@@ -158,7 +158,7 @@ We sincerely thank the following contributors to this project:
 
 Chen Xu xuc@tju.edu.cn;
 Yaru Wang wyr0557@tju.edu.cn;
-Xi Chen chenxi@tju.edu.cn,;
+Xi Chen chenxi@tju.edu.cn;
 Xubo Yuan xbyuan@tju.edu.cn;
 Hongxiao Wu WHXwhx12305@163.com;Mingyi Li limingyi@bit.edu.cn;
 Jiawei Li 18247395676@163.com.
