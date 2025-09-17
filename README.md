@@ -80,7 +80,7 @@
  陈曦 chenxi@tju.edu.cn;
  原续波 xbyuan@tju.edu.cn;
  吴红啸 WHXwhx12305@163.com;
- 李明益 limingyi@bit.edu.cn;
+ 李明益 franklee_5823@163.com;
  李嘉伟 18247395676@163.com.
 
  
@@ -160,7 +160,7 @@ Chen Xu xuc@tju.edu.cn;
 Yaru Wang wyr0557@tju.edu.cn;
 Xi Chen chenxi@tju.edu.cn;
 Xubo Yuan xbyuan@tju.edu.cn;
-Hongxiao Wu WHXwhx12305@163.com;Mingyi Li limingyi@bit.edu.cn;
+Hongxiao Wu WHXwhx12305@163.com;Mingyi Li franklee_5823@163.com;
 Jiawei Li 18247395676@163.com.
 
 
